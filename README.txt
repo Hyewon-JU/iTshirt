@@ -4,3 +4,5 @@ This is test file. 굿 굿2 굿3 굿5 굿6
 문어
 강아지
 고양이
+
+한글깨짐 test1
