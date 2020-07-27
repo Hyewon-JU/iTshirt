@@ -6,3 +6,4 @@ This is test file. 굿 굿2 굿3 굿5 굿6
 고양이
 
 한글깨짐 test1
+너구리
